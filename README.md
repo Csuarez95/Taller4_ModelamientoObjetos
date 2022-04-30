@@ -1,2 +1,4 @@
 # Taller4_ModelamientoObjetos
 Se crea repositorio para la carga de los archivos correspondientes al taller 4 empleando modelamiento de objetos.
+En el taller se emplea el POO y el modelamiento de objetos para dar solución a los ejercicios planteados, teniendo en cuenta las solicitudes de cada uno para ajustar el algoritmo de acuerdo con lo requerido, empleando métodos con Programación Orientada a Objetos para realizar cálculos matemáticos, Validación de métodos main, generador de números aleatorios empleando la clase Math para el llenado de arrays y organización de estos, creación de un Ferry para crear vehículos que cuenten con aspectos comunes, implementación de herencia para crear objetos con característica únicas y el uso de la clase Vector para almacenamiento de números enteros ingresados por teclado.
+
